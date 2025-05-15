@@ -5,7 +5,7 @@ Created on Wed Apr 21 14:48:44 2021
 @author: rajee
 """
 
-# Neural Network train model
+# Neural Network train mode
 
 # -*- coding: utf-8 -*-
 import os
